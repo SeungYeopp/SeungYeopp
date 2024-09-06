@@ -80,8 +80,8 @@
 <br/>
 
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://solved.ac/syt05342/">
+<div style="display: flex; align-items: center;">
+  <a href="https://solved.ac/syt05342/" style="margin-right: 20px;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syt05342" alt="Solved.ac Profile" />
   </a>
   <picture>
@@ -96,6 +96,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeopp&layout=compact" alt="GitHub Top Languages" />
   </picture>
 </div>
+
+
 
 
 <h4>📬 Contacts 📬</h4>

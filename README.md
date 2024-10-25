@@ -83,6 +83,7 @@
 <div style="display: flex; align-items: center;">
   <a href="https://solved.ac/syt05342/" style="margin-right: 20px;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syt05342" alt="Solved.ac Profile" />
+    <img src="http://mazandi.herokuapp.com/api?handle=syt05342&theme=warm"/>
   </a>
   <picture>
     <source

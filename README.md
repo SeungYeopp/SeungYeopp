@@ -97,7 +97,7 @@
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/SeungYeopp?pet-id=643968961802668018" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/SeungYeopp?pet-id=717914935531010484" width="1000" height="120"/>
 </a>
 
 

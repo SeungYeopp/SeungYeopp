@@ -90,6 +90,19 @@
 
 ---
 
+## 🐾 My Git Pet
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/SeungYeopp"/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/SeungYeopp?pet-id=643968961802668018" width="1000" height="120"/>
+</a>
+
+
+---
+
 ## 📬 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syt05342@naver.com)](mailto:syt05342@naver.com)
